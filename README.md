@@ -1,3 +1,3 @@
 # rock-paper-scissor
-lang:  html,css,javaScript..
+lang:  html,css,javaScript
 
